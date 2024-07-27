@@ -1,0 +1,127 @@
+{
+  "1.": {
+    "title": "Object of the Agreement:",
+    "points": [
+      "GlobalService LLC will provide software development services based on specifications provided by ClientProject Inc.",
+      "ClientProject Inc. Will accept and pay for these services."
+    ]
+  },
+  "2.": {
+    "title": "Rights and Obligations:",
+    "points": [
+      "GlobalService LLC has the right to involve third parties in the work provided that there is no need for prior approval from ClientProject Inc.",
+      "ClientProject Inc. Must provide all necessary information to GlobalService LLC in a timely manner.",
+      "GlobalService LLC may not use ClientProject Inc.'s confidential information for purposes other than executing the agreement."
+    ]
+  },
+  "3.": {
+    "title": "Financial Terms:",
+    "points": [
+      "The total fee for the services is $100,000.",
+      "50% of the fee must be paid upfront before the commencement of work, and the remaining 50% must be paid upon completion of the work.",
+      "If payment is delayed by more than 10 days, GlobalService LLC has the right to suspend work until payment is received."
+    ]
+  },
+  "4.": {
+    "title": "General Travel Provisions:",
+    "points": [
+      "Weather and Environmental Considerations: Additional allowances of up to $300 per trip are provided for travel to areas experiencing severe weather conditions or challenging environments.",
+      "Health and Safety Provisions: All necessary health and safety expenses, including vaccinations and insurance, are covered for travel to regions with known health risks."
+    ],
+    "subsections": {
+      "a. Pre-approval Requirement": {
+        "title": "All travel arrangements must be pre-approved by ClientProject Inc.",
+        "points": []
+      },
+      "b. Budget Caps": {
+        "title": "Total expenses for any single trip must not exceed $2,500, and daily expenses must not exceed $500 to maintain financial control.",
+        "points": []
+      },
+      "c. Travel Class Specifications": {
+        "title": "Domestic flights should be booked in economy class, while international flights exceeding 6 hours in duration may be booked in business class.",
+        "points": []
+      },
+      "d. Accommodation Standards": {
+        "title": "Accommodations must be booked in approved hotels within the standard cost range, unless otherwise justified by specific project needs.",
+        "points": []
+      },
+      "e. Location and Seasonal Adjustments": {
+        "title": "For travel to high-cost locations or during peak tourist seasons, additional allowances of up to $300 per trip or a budget increase of up to 20%, respectively, can be approved with prior written approval from senior management.",
+        "points": []
+      },
+      "f. Special Circumstances Provisions": {
+        "title": "",
+        "points": []
+      }
+    }
+  },
+  "5.": {
+    "title": "Confidentiality and Data Protection:",
+    "points": [
+      "GlobalService LLC must keep ClientProject Inc.'s business secrets and other confidential information strictly confidential during and after the term of the agreement.",
+      "Any breach of confidentiality may result in legal remedies."
+    ]
+  },
+  "6.": {
+    "title": "Intellectual Property Rights:",
+    "points": [
+      "All intellectual property rights in the software developed under the agreement belong to ClientProject Inc., unless otherwise agreed in writing.",
+      "ClientProject Inc. Grants GlobalService LLC a non-exclusive, worldwide license to use, modify, and distribute the software."
+    ]
+  },
+  "7.": {
+    "title": "Termination:",
+    "points": [
+      "Either party may terminate this agreement with a 30-day written notice if the other party breaches the agreement and fails to correct the breach within a 15-day notice period.",
+      "Upon termination, all finished work and work in progress must be handed over to ClientProject Inc., and all outstanding payments must be settled."
+    ]
+  },
+  "8.": {
+    "title": "Limitation of Liability:",
+    "points": [
+      "GlobalService LLC's liability under the agreement shall be limited to the total fee paid by ClientProject Inc.",
+      "Neither party shall be liable for any indirect, incidental, or consequential damages arising from the agreement."
+    ]
+  },
+  "9.": {
+    "title": "Compliance with Laws:",
+    "points": [
+      "Both parties agree to comply with all applicable laws and regulations in executing the agreement.",
+      "ClientProject Inc. Is responsible for ensuring that the software does not violate any legal regulations in its intended markets."
+    ]
+  },
+  "10.": {
+    "title": "Amendments:",
+    "points": [
+      "No modification of this agreement shall be valid unless signed by both parties.",
+      "Any amendments to the scope of work as defined in the specifications require a written amendment to this agreement."
+    ]
+  },
+  "11.": {
+    "title": "Miscellaneous:",
+    "points": [
+      "This agreement is governed by the laws of the State of New York.",
+      "All disputes arising from the agreement shall be resolved through arbitration in New York, NY."
+    ]
+  },
+  "12.": {
+    "title": "Software Development Tasks:",
+    "points": [
+      "Scope of Work: GlobalService LLC will develop, test, and deploy software according to the functional and technical specifications provided by ClientProject Inc.",
+      "Development Standards: All software must conform to high industry standards of code quality and performance, and GlobalService LLC agrees to conduct rigorous testing and quality assurance before delivery.",
+      "Delivery and Implementation: Software shall be delivered according to the milestones set forth in the project plan, and GlobalService LLC shall assist with the implementation of the software upon delivery.",
+      "Purpose: To introduce complex multi-factor adjustments to the travel expense policy, ensuring fair and efficient management of corporate travel expenses.",
+      "Introduction of Multi-Factor Adjustment Conditions:",
+      "Night and Weekend Travel Multiplier: A 1.1 multiplier will be applied to travel expenses incurred for flights scheduled between 9:00 PM and 5:00 AM or on weekends (from Friday 9:00 PM to Monday 5:00 AM) to address the increased costs associated with off-hours travel.",
+      "Seasonal and Location-Based Adjustments: An additional multiplier of 1.2 will be applied to the standard travel budget for travel during designated peak seasons and to high-cost locations, as predefined in the corporate travel policy.",
+      "Urgency and Unscheduled Travel Surge Pricing: A surge pricing multiplier of 1.3 will be applied if travel is necessitated with less than 48 hours notice to reflect the higher costs associated with last-minute travel arrangements.",
+      "Enforcement and Compliance: Failure to comply with the stipulated adjustment rules will be considered a violation of the corporate travel policy, subject to disciplinary actions and potential financial repercussions as outlined in the main agreement."
+    ],
+    "subsections": {
+      "Amendment to the Service Agreement Regarding Travel Expenses": {
+        "title": "",
+        "points": []
+      }
+    }
+  }
+}
