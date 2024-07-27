@@ -1,8 +1,13 @@
 ## Contract Conditions Extraction and Verification
 
-This Streamlit application is designed to extract contract conditions from a DOCX file and verify if task descriptions from a CSV file comply with those conditions. It utilizes the Zephyr 7B β LLM from Hugging Face to analyze the contract text and determine compliance. 
+This Streamlit application is designed to extract contract conditions from a DOCX file and verify if task descriptions from a CSV file comply with those conditions. It utilizes the [Zephyr 7B β](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta) LLM from Hugging Face to analyze the contract text and determine compliance. 
+
+### Deliverables
+
+See [contract_conditions.json](https://github.com/mattfaltyn/llm-fun/blob/main/contract_conditions.json) for the extracted contract conditions from `app.py`.
 
 See [output.pdf](https://github.com/mattfaltyn/llm-fun/blob/main/output.pdf) for an example output of `app.py`.
+
 
 ### Features
 
