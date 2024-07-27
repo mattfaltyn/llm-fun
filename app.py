@@ -9,7 +9,7 @@ import re
 # Initialize the Inference Client
 client = InferenceClient(
     model="HuggingFaceH4/zephyr-7b-beta",
-    token="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",
+    token="enter your token here",
 )
 
 
