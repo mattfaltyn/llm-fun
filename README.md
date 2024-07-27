@@ -1,6 +1,6 @@
 ## Contract Conditions Extraction and Verification
 
-This Streamlit application is designed to extract contract conditions from a DOCX file and verify if task descriptions from a CSV file comply with those conditions. It utilizes a language model from Hugging Face to analyze the contract text and determine compliance.
+This Streamlit application is designed to extract contract conditions from a DOCX file and verify if task descriptions from a CSV file comply with those conditions. It utilizes the Zephyr 7B β LLM from Hugging Face to analyze the contract text and determine compliance.
 
 ### Features
 
