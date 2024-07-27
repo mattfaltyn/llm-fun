@@ -1,1 +1,1 @@
-# llm-fun
+# LLM Fun - Simple Contract Extractor
