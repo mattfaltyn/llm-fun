@@ -4,9 +4,8 @@ This Streamlit application is designed to extract contract conditions from a DOC
 
 ### Deliverables
 
-See [contract_conditions.json](https://github.com/mattfaltyn/llm-fun/blob/main/contract_conditions.json) for the extracted contract conditions from `app.py`.
-
-See [output.pdf](https://github.com/mattfaltyn/llm-fun/blob/main/output.pdf) for an example output of `app.py`.
+1. See [contract_conditions.json](https://github.com/mattfaltyn/llm-fun/blob/main/contract_conditions.json) for the extracted contract conditions from `app.py`.
+2. See [output.pdf](https://github.com/mattfaltyn/llm-fun/blob/main/output.pdf) for an example output of `app.py`.
 
 
 ### Features
