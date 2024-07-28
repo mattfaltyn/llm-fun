@@ -2,7 +2,7 @@
 
 This Streamlit application is designed to extract contract conditions from a DOCX file and verify if task descriptions from a CSV file comply with those conditions. It utilizes the open-source (MIT) [Zephyr 7B β](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta) LLM from Hugging Face to analyze the contract text and determine compliance. 
 
-**NOTE**: This project was completed in around an hour. The NLP, backend, and frontend aspects of app.py can be greatly improved. The Zephyr 7B β model is unable to accurately extract 100% of the contract conditions, nor is it able to accurately evaluate the contract's compliance with 100% of the item descriptions. Upgrading to a proprietary LLM such as GPT-4o would solve most of these issues. Please contact Matt for more details.
+**NOTE**: This project was completed in around an hour. The NLP, backend, and frontend aspects of `app.py` can be greatly improved. The Zephyr 7B β model is unable to accurately extract 100% of the contract conditions, nor is it able to accurately evaluate the contract's compliance with 100% of the item descriptions. Upgrading to a proprietary LLM such as GPT-4o would solve most of these issues. Please contact Matt for more details.
 
 ### Deliverables
 
