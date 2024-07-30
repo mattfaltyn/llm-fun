@@ -1,5 +1,30 @@
 ## Contract Conditions Extraction and Verification
 
+Here is a markdown table of contents for your project:
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Deliverables](#deliverables)
+3. [Features](#features)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Code Overview](#code-overview)
+    1. [Initialization](#initialization)
+    2. [Model Query](#model-query)
+    3. [Parse Generated Text to JSON](#parse-generated-text-to-json)
+    4. [Extract Contract Conditions](#extract-contract-conditions)
+    5. [Format Conditions for Display](#format-conditions-for-display)
+    6. [Extract Budget Limit from Conditions](#extract-budget-limit-from-conditions)
+    7. [Extract Cost from Task Description](#extract-cost-from-task-description)
+    8. [Analyze Task Description for Compliance](#analyze-task-description-for-compliance)
+    9. [Analyze All Tasks for Compliance](#analyze-all-tasks-for-compliance)
+    10. [Read DOCX File](#read-docx-file)
+    11. [Streamlit App Layout](#streamlit-app-layout)
+7. [License](#license)
+
+## Introduction
+
 This Streamlit application is designed to extract contract conditions from a DOCX file and verify if task descriptions from a CSV file comply with those conditions. It utilizes the open-source (MIT) [Zephyr 7B β](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta) LLM from Hugging Face to analyze the contract text and determine compliance. 
 
 **NOTE**: This project was completed in around an hour. The NLP, backend, and frontend aspects of `app.py` can be greatly improved. The Zephyr 7B β model is unable to accurately extract 100% of the contract conditions, nor is it able to accurately evaluate the contract's compliance with 100% of the item descriptions. Upgrading to a proprietary LLM such as GPT-4o would solve most of these issues. Please contact Matt for more details.
